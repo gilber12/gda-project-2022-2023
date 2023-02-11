@@ -10,6 +10,8 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+*.meta
+Space Ocean/Library/Artifacts*
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -72,6 +74,7 @@ Space Ocean/Temp/FSTimeGet-b9a7a35218cadf94a80c5942feaa84b5
 Space Ocean/Temp/PropertyDatabase_1265138678
 Space Ocean/Temp/PropertyDatabase_2066312223
 Space Ocean/Temp/workerlic
+Space Ocean/Temp/*
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
